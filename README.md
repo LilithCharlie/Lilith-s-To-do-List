@@ -27,7 +27,7 @@ O **Lilith's To-Do List** é um aplicativo simples que roda no terminal e permit
 #### Se você não quiser instalar nada, basta
 
 - Baixar a versão compilada em .exe
-- Clicar duas vezes no arquivo main.exe para rodar o programa
+- Clicar duas vezes no arquivo Lilith's To-do.exe para rodar o programa
 
 ### 2️⃣ Rodando pelo código fonte (via GitHub)
 
