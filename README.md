@@ -34,7 +34,7 @@ O **Lilith's To-Do List** é um aplicativo simples que roda no terminal e permit
 #### Caso prefira rodar o código diretamente em Python
 
 ```
-git clone https://github.com/LilithCharlie/
+git clone https://github.com/LilithCharlie/Lilith-s-To-do-List.git
 ```
 ```
 cd projeto-final
