@@ -17,7 +17,7 @@ O **Lilith's To-Do List** é um aplicativo simples que roda no terminal e permit
 ## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem:** Python 3.13 
-- **Bibliotecas padrão:** `os` (para limpar o terminal)  
+- **Bibliotecas:** `os` (para limpar o terminal)  
 
 ---
 
